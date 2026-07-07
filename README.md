@@ -1,33 +1,15 @@
-# mechforge-100-days
 # ⚙️ MechForge
 
 > Building the future of mechanical engineering with Python.
 
-## About
+## 100 Days of Python for Mechanical Engineers
 
-MechForge is my 100-day challenge to become a mechanical engineer who can build engineering software using Python.
+This repository documents my journey of learning Python by building real engineering software.
 
-The goal is to combine:
+### Goals
 
-- Mechanical Engineering
-- Python Programming
-- Artificial Intelligence
-- Engineering Simulation
-- Automation
-- CAD
-- Data Analysis
-
-## Roadmap
-
-- [ ] Python Fundamentals
-- [ ] Engineering Calculators
-- [ ] Data Visualization
-- [ ] GUI Development
-- [ ] AI Integration
-- [ ] Computer Vision
-- [ ] Engineering Software Suite
-
-## Progress
-
-### Day 1
-Project setup
+- Learn Python
+- Build engineering tools
+- Master Git & GitHub
+- Learn AI for engineering
+- Create a professional portfolio
